@@ -1,7 +1,0 @@
-{
-  "builds": [
-    { "src": "prepwise-lite/package.json", "use": "@vercel/next" }
-  ],
-  "probes": [],
-  "version": 2
-}
